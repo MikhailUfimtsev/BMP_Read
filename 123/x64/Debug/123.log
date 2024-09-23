@@ -1,0 +1,6 @@
+﻿  123.cpp
+  BMP_READ.cpp
+C:\Users\miha-\source\repos\123\BMP_READ.cpp(56,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\miha-\source\repos\123\BMP_READ.cpp(105,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  123.vcxproj -> C:\Users\miha-\source\repos\123\x64\Debug\123.exe
